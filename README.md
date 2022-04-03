@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2voo7jnab4ncwpqi?svg=true)](https://ci.appveyor.com/project/EfimovSI/aqa-2-3-patterns-task1)
